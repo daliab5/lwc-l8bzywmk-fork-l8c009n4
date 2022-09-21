@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/daliab5.lwc-l8bzywmk-fork-l8c009n4",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve KPXVrf19LGoAnjokqQoY --open"
+  }
+}
